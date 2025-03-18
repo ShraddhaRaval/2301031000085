@@ -1,0 +1,1304 @@
+.landing-page {
+    position: relative;
+    width: 1440px;
+    height: 2867px;
+    background-color: #ffffff;
+  }
+  
+  .landing-page .container {
+    height: 640px;
+    top: 56px;
+    background-color: #1d2128;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .landing-page .overlap-group {
+    position: relative;
+    height: 640px;
+    background-image: url(./img/image-18.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .overlay {
+    position: absolute;
+    width: 1440px;
+    height: 640px;
+    top: 0;
+    left: 0;
+    background-color: #171a1f66;
+    border: 0px none;
+  }
+  
+  .landing-page .text-wrapper {
+    position: absolute;
+    width: 1176px;
+    top: 400px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #f3f4f6;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .landing-page .div {
+    position: absolute;
+    width: 1176px;
+    top: 292px;
+    left: 132px;
+    font-family: "Raleway-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: 84px;
+  }
+  
+  .landing-page .button {
+    all: unset;
+    box-sizing: border-box;
+    width: 177px;
+    height: 52px;
+    top: 460px;
+    left: 132px;
+    background-color: #a8d5ba;
+    border-radius: 6px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    top: 11px;
+    left: 20px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #29563b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .container-2 {
+    height: 1260px;
+    top: 696px;
+    background-color: #ffffff;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .landing-page .div-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    width: 112px;
+    height: 44px;
+    top: 550px;
+    left: 132px;
+    background-color: #a8d5ba;
+    border-radius: 16px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: absolute;
+    top: 8px;
+    left: 25px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #29563b;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .p {
+    position: absolute;
+    width: 476px;
+    top: 478px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    position: absolute;
+    width: 476px;
+    top: 406px;
+    left: 132px;
+    font-family: "Raleway-Bold", Helvetica;
+    font-weight: 700;
+    color: #171a1f;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 56px;
+  }
+  
+  .landing-page .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    width: 112px;
+    height: 44px;
+    top: 1014px;
+    left: 768px;
+    background-color: #a8d5ba;
+    border-radius: 16px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    position: absolute;
+    width: 476px;
+    top: 942px;
+    left: 768px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    position: absolute;
+    width: 476px;
+    top: 870px;
+    left: 768px;
+    font-family: "Raleway-Bold", Helvetica;
+    font-weight: 700;
+    color: #171a1f;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 56px;
+  }
+  
+  .landing-page .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    width: 118px;
+    height: 44px;
+    top: 1014px;
+    left: 896px;
+    border-radius: 16px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8d5ba;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    width: 118px;
+    height: 44px;
+    top: 550px;
+    left: 260px;
+    border-radius: 6px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    position: absolute;
+    width: 1176px;
+    top: 96px;
+    left: 132px;
+    font-family: "Raleway-Bold", Helvetica;
+    font-weight: 700;
+    color: #171a1f;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 68px;
+  }
+  
+  .landing-page .text-wrapper-9 {
+    position: absolute;
+    width: 680px;
+    top: 180px;
+    left: 380px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .image {
+    position: absolute;
+    width: 540px;
+    height: 400px;
+    top: 300px;
+    left: 768px;
+  }
+  
+  .landing-page .img {
+    position: absolute;
+    width: 540px;
+    height: 400px;
+    top: 764px;
+    left: 132px;
+  }
+  
+  .landing-page .container-3 {
+    height: 504px;
+    top: 1956px;
+    background-color: #ffffff;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .landing-page .image-2 {
+    position: absolute;
+    width: 280px;
+    height: 312px;
+    top: 96px;
+    left: 132px;
+  }
+  
+  .landing-page .text-wrapper-10 {
+    position: absolute;
+    width: 736px;
+    top: 196px;
+    left: 540px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .landing-page .text-wrapper-11 {
+    position: absolute;
+    top: 318px;
+    left: 540px;
+    font-family: "Lora-Bold", Helvetica;
+    font-weight: 700;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-12 {
+    position: absolute;
+    top: 348px;
+    left: 540px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .rating {
+    position: absolute;
+    width: 180px;
+    height: 36px;
+    top: 128px;
+    left: 540px;
+  }
+  
+  .landing-page .frame {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .frame-2 {
+    width: 36px;
+    height: 36px;
+    left: 36px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .frame-3 {
+    width: 36px;
+    height: 36px;
+    left: 72px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .frame-4 {
+    width: 36px;
+    height: 36px;
+    left: 108px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .frame-5 {
+    width: 36px;
+    height: 36px;
+    left: 144px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .button-5 {
+    all: unset;
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    top: 329px;
+    left: 1240px;
+    border-radius: 18px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text {
+    position: absolute;
+    top: 6px;
+    left: 26px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .group-wrapper {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .landing-page .group {
+    position: relative;
+    width: 7px;
+    height: 12px;
+    top: 2px;
+    left: 5px;
+    background-image: url(./img/group-10.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .button-6 {
+    all: unset;
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    top: 329px;
+    left: 1120px;
+    border-radius: 18px;
+    border-color: transparent;
+    opacity: 0.4;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .group-2 {
+    position: relative;
+    width: 7px;
+    height: 12px;
+    top: 2px;
+    left: 4px;
+    background-image: url(./img/group-16.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .rectangle {
+    width: 20px;
+    left: 1160px;
+    background-color: #a8d5ba;
+    position: absolute;
+    height: 10px;
+    top: 342px;
+    border-radius: 5px;
+    border: 0px none;
+  }
+  
+  .landing-page .rectangle-2 {
+    width: 10px;
+    left: 1184px;
+    background-color: #dee1e6;
+    position: absolute;
+    height: 10px;
+    top: 342px;
+    border-radius: 5px;
+    border: 0px none;
+  }
+  
+  .landing-page .rectangle-3 {
+    width: 10px;
+    left: 1198px;
+    background-color: #dee1e6;
+    position: absolute;
+    height: 10px;
+    top: 342px;
+    border-radius: 5px;
+    border: 0px none;
+  }
+  
+  .landing-page .rectangle-4 {
+    width: 10px;
+    left: 1212px;
+    background-color: #dee1e6;
+    position: absolute;
+    height: 10px;
+    top: 342px;
+    border-radius: 5px;
+    border: 0px none;
+  }
+  
+  .landing-page .rectangle-5 {
+    width: 10px;
+    left: 1226px;
+    background-color: #dee1e6;
+    position: absolute;
+    height: 10px;
+    top: 342px;
+    border-radius: 5px;
+    border: 0px none;
+  }
+  
+  .landing-page .container-4 {
+    position: absolute;
+    width: 1440px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f0d, 0px 0px 2px #171a1f14;
+  }
+  
+  .landing-page .image-3 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 24px;
+    border: 0px none;
+  }
+  
+  .landing-page .group-3 {
+    position: relative;
+    width: 28px;
+    height: 31px;
+    top: 2px;
+    left: 4px;
+  }
+  
+  .landing-page .group-4 {
+    height: 31px;
+  }
+  
+  .landing-page .group-5 {
+    width: 28px;
+    height: 31px;
+  }
+  
+  .landing-page .overlap-group-wrapper {
+    height: 31px;
+    background-image: url(./img/group-17.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .overlap-group-2 {
+    position: relative;
+    width: 28px;
+    height: 21px;
+  }
+  
+  .landing-page .group-6 {
+    position: absolute;
+    width: 28px;
+    height: 20px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .group-7 {
+    position: absolute;
+    width: 11px;
+    height: 12px;
+    top: 9px;
+    left: 8px;
+  }
+  
+  .landing-page .button-7 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 160px;
+    height: 36px;
+    top: 10px;
+    left: 1256px;
+    background-color: #a8d5ba;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: transparent;
+  }
+  
+  .landing-page .text-wrapper-13 {
+    position: absolute;
+    top: 6px;
+    left: 72px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #29563b;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .log-in {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 50px;
+  }
+  
+  .landing-page .group-8 {
+    position: relative;
+    width: 12px;
+    height: 13px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .landing-page .group-9 {
+    height: 13px;
+  }
+  
+  .landing-page .overlap-group-3 {
+    position: relative;
+    width: 13px;
+    height: 14px;
+    top: -1px;
+  }
+  
+  .landing-page .group-10 {
+    position: absolute;
+    width: 9px;
+    height: 1px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .landing-page .group-11 {
+    position: absolute;
+    width: 5px;
+    height: 8px;
+    top: 3px;
+    left: 5px;
+  }
+  
+  .landing-page .group-12 {
+    position: absolute;
+    width: 8px;
+    height: 14px;
+    top: 0;
+    left: 4px;
+  }
+  
+  .landing-page .text-wrapper-14 {
+    position: absolute;
+    top: 7px;
+    left: 70px;
+    font-family: "Raleway-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 42px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .header-menu {
+    position: absolute;
+    width: 495px;
+    height: 52px;
+    top: 2px;
+    left: 240px;
+  }
+  
+  .landing-page .frame-6 {
+    width: 179px;
+    height: 52px;
+    left: 0;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .rectangle-6 {
+    position: absolute;
+    width: 179px;
+    height: 4px;
+    top: 48px;
+    left: 0;
+    background-color: #a8d5ba;
+    border-radius: 2px;
+    border: 0px none;
+  }
+  
+  .landing-page .text-wrapper-15 {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-family: "Lora-Bold", Helvetica;
+    font-weight: 700;
+    color: #a8d5ba;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-7 {
+    width: 232px;
+    height: 52px;
+    left: 179px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .text-wrapper-16 {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-8 {
+    width: 84px;
+    height: 52px;
+    left: 411px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .button-8 {
+    all: unset;
+    box-sizing: border-box;
+    width: 160px;
+    height: 36px;
+    top: 10px;
+    left: 1080px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-color: #37734f;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-17 {
+    position: absolute;
+    top: 6px;
+    left: 66px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #37734f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .newsletter-dev {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 44px;
+  }
+  
+  .landing-page .group-13 {
+    position: relative;
+    width: 13px;
+    height: 13px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .landing-page .overlap-group-4 {
+    position: relative;
+    width: 14px;
+    height: 14px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .landing-page .group-14 {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 4px;
+    left: 0;
+  }
+  
+  .landing-page .group-15 {
+    position: absolute;
+    width: 9px;
+    height: 8px;
+    top: 0;
+    left: 2px;
+  }
+  
+  .landing-page .group-16 {
+    position: absolute;
+    width: 13px;
+    height: 8px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .landing-page .group-17 {
+    position: absolute;
+    width: 7px;
+    height: 5px;
+    top: 6px;
+    left: 7px;
+  }
+  
+  .landing-page .group-18 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 3px;
+    left: 4px;
+  }
+  
+  .landing-page .group-19 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 3px;
+    left: 7px;
+  }
+  
+  .landing-page .container-5 {
+    height: 407px;
+    top: 2460px;
+    background-color: #1d2128;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .landing-page .text-wrapper-18 {
+    position: absolute;
+    top: 260px;
+    left: 880px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-19 {
+    position: absolute;
+    width: 93px;
+    top: 260px;
+    left: 1022px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-20 {
+    position: absolute;
+    width: 45px;
+    top: 260px;
+    left: 1155px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-21 {
+    position: absolute;
+    width: 68px;
+    top: 260px;
+    left: 1240px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .textbox {
+    width: 129px;
+    height: 37px;
+    top: 346px;
+    left: 131px;
+    border-radius: 6px;
+    position: absolute;
+    border: 1px solid;
+    border-color: #bcc1ca;
+  }
+  
+  .landing-page .text-wrapper-22 {
+    position: absolute;
+    top: 6px;
+    left: 12px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .chevron-down-large {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 100px;
+  }
+  
+  .landing-page .text-wrapper-23 {
+    position: absolute;
+    width: 318px;
+    top: 354px;
+    left: 561px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .landing-page .text-wrapper-24 {
+    position: absolute;
+    width: 234px;
+    top: 96px;
+    left: 603px;
+    font-family: "Raleway-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .textbox-2 {
+    width: 265px;
+    height: 45px;
+    top: 133px;
+    left: 531px;
+    border-radius: 22px 0px 0px 22px;
+    position: absolute;
+    border: 1px solid;
+    border-color: #bcc1ca;
+  }
+  
+  .landing-page .text-wrapper-25 {
+    position: absolute;
+    top: 8px;
+    left: 44px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .mail {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 12px;
+    left: 16px;
+  }
+  
+  .landing-page .button-9 {
+    all: unset;
+    box-sizing: border-box;
+    width: 112px;
+    height: 44px;
+    top: 134px;
+    left: 796px;
+    background-color: #a8d5ba;
+    border-radius: 0px 22px 22px 0px;
+    border-color: transparent;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-26 {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #29563b;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .logo-twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 353px;
+    left: 1140px;
+  }
+  
+  .landing-page .group-20 {
+    position: relative;
+    width: 19px;
+    height: 16px;
+    top: 4px;
+    left: 2px;
+    background-image: url(./img/group-4.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .logo-facebook {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 353px;
+    left: 1188px;
+  }
+  
+  .landing-page .group-21 {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    top: 2px;
+    left: 2px;
+    background-image: url(./img/group-7.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .logo-linkedin {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 353px;
+    left: 1236px;
+  }
+  
+  .landing-page .group-22 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+    background-image: url(./img/group-2.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .logo-youtube {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 353px;
+    left: 1284px;
+  }
+  
+  .landing-page .group-23 {
+    position: relative;
+    width: 19px;
+    height: 14px;
+    top: 5px;
+    left: 2px;
+    background-image: url(./img/group-13.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .line {
+    position: absolute;
+    width: 1176px;
+    height: 2px;
+    top: 322px;
+    left: 132px;
+  }
+  
+  .landing-page .text-wrapper-27 {
+    position: absolute;
+    width: 75px;
+    top: 260px;
+    left: 765px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-28 {
+    position: absolute;
+    width: 77px;
+    top: 260px;
+    left: 648px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .text-wrapper-29 {
+    position: absolute;
+    width: 59px;
+    top: 260px;
+    left: 549px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .image-4 {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 250px;
+    left: 132px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .landing-page .group-24 {
+    position: relative;
+    width: 44px;
+    height: 41px;
+    top: 3px;
+    left: 2px;
+  }
+  
+  .landing-page .group-25 {
+    height: 41px;
+  }
+  
+  .landing-page .group-26 {
+    width: 44px;
+    height: 41px;
+  }
+  
+  .landing-page .group-27 {
+    height: 41px;
+    background-image: url(./img/clip-path-group-2.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .clip-path-group-wrapper {
+    position: relative;
+    width: 44px;
+    height: 41px;
+    background-image: url(./img/clip-path-group.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .clip-path-group {
+    position: absolute;
+    width: 44px;
+    height: 41px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .text-wrapper-30 {
+    position: absolute;
+    width: 158px;
+    top: 250px;
+    left: 188px;
+    font-family: "Raleway-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 48px;
+    white-space: nowrap;
+  }
+  /* Original CSS code here */
+  
+  /* Additional CSS for improved accessibility and semantics */
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  
+  .header-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .newsletter-form {
+    display: flex;
+  }
+  
+  .language-selector select {
+    appearance: none;
+    background: transparent;
+    border: none;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    padding-right: 20px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  /* Ensure interactive elements have proper focus styles */
+  a:focus,
+  button:focus,
+  input:focus,
+  select:focus {
+    outline: 2px solid #4a90e2;
+    outline-offset: 2px;
+  }
+  
+  /* Improve color contrast for better accessibility */
+  .text-wrapper-3,
+  .text-wrapper-7,
+  .text-wrapper-13,
+  .text-wrapper-17,
+  .text-wrapper-26 {
+    color: #1d4429;
+  }
+  
+  .text-wrapper-25 {
+    color: #6c757d;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .landing-page {
+      width: 100%;
+    }
+  
+    .container,
+    .container-2,
+    .container-3,
+    .container-4,
+    .container-5 {
+      width: 100%;
+      padding: 0 20px;
+    }
+  
+    .text-wrapper,
+    .div,
+    .text-wrapper-8,
+    .text-wrapper-9 {
+      font-size: 90%;
+    }
+  
+    .image,
+    .img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  

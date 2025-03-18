@@ -1,0 +1,951 @@
+.about-us {
+    position: relative;
+    width: 1440px;
+    height: 1971px;
+    background-color: #ffffff;
+  }
+  
+  .about-us .container {
+    width: 1440px;
+    height: 849px;
+    top: 56px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 6px;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .text-wrapper {
+    position: absolute;
+    width: 561px;
+    top: 192px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #6e7787;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .about-us .div {
+    position: absolute;
+    width: 429px;
+    top: 709px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #6e7787;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .about-us .text-wrapper-2 {
+    position: absolute;
+    top: 665px;
+    left: 132px;
+    font-family: "Lora-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #171a1f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .about-us .line {
+    top: 648px;
+    position: absolute;
+    width: 456px;
+    height: 2px;
+    left: 132px;
+  }
+  
+  .about-us .text-wrapper-3 {
+    position: absolute;
+    top: 544px;
+    left: 132px;
+    font-family: "Lora-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #171a1f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .about-us .p {
+    position: absolute;
+    width: 429px;
+    top: 588px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #6e7787;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .about-us .we-are-committed-to {
+    position: absolute;
+    width: 429px;
+    top: 467px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #6e7787;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .about-us .text-wrapper-4 {
+    position: absolute;
+    top: 423px;
+    left: 132px;
+    font-family: "Lora-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #171a1f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .about-us .img {
+    top: 526px;
+    position: absolute;
+    width: 456px;
+    height: 2px;
+    left: 132px;
+  }
+  
+  .about-us .text-wrapper-5 {
+    position: absolute;
+    width: 429px;
+    top: 324px;
+    left: 132px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #6e7787;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .about-us .line-2 {
+    top: 406px;
+    position: absolute;
+    width: 456px;
+    height: 2px;
+    left: 132px;
+  }
+  
+  .about-us .text-wrapper-6 {
+    position: absolute;
+    top: 280px;
+    left: 132px;
+    font-family: "Lora-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #171a1f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .about-us .image {
+    position: absolute;
+    width: 570px;
+    height: 657px;
+    top: 96px;
+    left: 738px;
+  }
+  
+  .about-us .text-wrapper-7 {
+    top: 96px;
+    left: 132px;
+    color: #171a1f;
+    font-size: 64px;
+    line-height: 84px;
+    position: absolute;
+    font-family: "Lora-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .about-us .container-2 {
+    position: absolute;
+    width: 1440px;
+    height: 496px;
+    top: 905px;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .about-us .container-3 {
+    width: 276px;
+    height: 384px;
+    top: 56px;
+    left: 132px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .text-wrapper-8 {
+    position: absolute;
+    width: 276px;
+    top: 318px;
+    left: 0;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .about-us .image-2 {
+    position: absolute;
+    width: 276px;
+    height: 276px;
+    top: 0;
+    left: 0;
+  }
+  
+  .about-us .text-wrapper-9 {
+    width: 276px;
+    top: 284px;
+    left: 0;
+    color: #171a1f;
+    font-size: 16px;
+    line-height: 26px;
+    position: absolute;
+    font-family: "Lora-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+  
+  .about-us .container-4 {
+    width: 276px;
+    height: 384px;
+    top: 56px;
+    left: 432px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .container-5 {
+    width: 276px;
+    height: 384px;
+    top: 56px;
+    left: 732px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .container-6 {
+    width: 276px;
+    height: 384px;
+    top: 56px;
+    left: 1032px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .container-7 {
+    width: 1440px;
+    height: 570px;
+    top: 1401px;
+    left: 0;
+    background-color: #ffffff;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .container-8 {
+    width: 371px;
+    height: 214px;
+    top: 200px;
+    left: 132px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0px 0px 1px #171a1f0d, 0px 0px 2px #171a1f14;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .avatar {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 24px;
+    left: 24px;
+    background-color: #e2f1e8;
+    border-radius: 32px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .about-us .rectangle {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 0;
+    left: 0;
+  }
+  
+  .about-us .text-wrapper-10 {
+    width: 235px;
+    top: 24px;
+    left: 112px;
+    color: #323842;
+    font-size: 24px;
+    line-height: 36px;
+    position: absolute;
+    font-family: "Lora-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+  
+  .about-us .rating {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    top: 60px;
+    left: 112px;
+  }
+  
+  .about-us .frame {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 0;
+    left: 0;
+  }
+  
+  .about-us .frame-2 {
+    width: 20px;
+    height: 20px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .frame-3 {
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .frame-4 {
+    width: 20px;
+    height: 20px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .frame-5 {
+    width: 20px;
+    height: 20px;
+    left: 80px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .text-wrapper-11 {
+    position: absolute;
+    width: 323px;
+    top: 112px;
+    left: 24px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .about-us .text-wrapper-12 {
+    position: absolute;
+    width: 1176px;
+    top: 96px;
+    left: 133px;
+    font-family: "Raleway-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 56px;
+  }
+  
+  .about-us .button {
+    all: unset;
+    box-sizing: border-box;
+    width: 36px;
+    top: 438px;
+    left: 728px;
+    background-color: #f3f4f6;
+    border-radius: 18px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .about-us .text {
+    position: absolute;
+    top: 6px;
+    left: 26px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .about-us .group-wrapper {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .about-us .group {
+    position: relative;
+    width: 7px;
+    height: 12px;
+    top: 2px;
+    left: 5px;
+    background-image: url(./img/group-5.png);
+    background-size: 100% 100%;
+  }
+  
+  .about-us .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    width: 36px;
+    top: 438px;
+    left: 676px;
+    background-color: #f3f4f6;
+    border-radius: 18px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .about-us .group-2 {
+    position: relative;
+    width: 7px;
+    height: 12px;
+    top: 2px;
+    left: 4px;
+    background-image: url(./img/group-4.png);
+    background-size: 100% 100%;
+  }
+  
+  .about-us .container-9 {
+    left: 535px;
+    position: absolute;
+    width: 371px;
+    height: 214px;
+    top: 200px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f0d, 0px 0px 2px #171a1f14;
+  }
+  
+  .about-us .rectangle-wrapper {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 24px;
+    left: 24px;
+    background-color: #ffddb4;
+    border-radius: 32px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .about-us .container-10 {
+    left: 937px;
+    position: absolute;
+    width: 371px;
+    height: 214px;
+    top: 200px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f0d, 0px 0px 2px #171a1f14;
+  }
+  
+  .about-us .container-11 {
+    width: 1440px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 1px #171a1f0d, 0px 0px 2px #171a1f14;
+    position: absolute;
+    border: 0px none;
+  }
+  
+  .about-us .div-wrapper {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 24px;
+    border: 0px none;
+  }
+  
+  .about-us .group-3 {
+    position: relative;
+    width: 28px;
+    height: 31px;
+    top: 2px;
+    left: 4px;
+  }
+  
+  .about-us .group-4 {
+    height: 31px;
+  }
+  
+  .about-us .group-5 {
+    width: 28px;
+    height: 31px;
+  }
+  
+  .about-us .overlap-group-wrapper {
+    height: 31px;
+    background-image: url(./img/group.png);
+    background-size: 100% 100%;
+  }
+  
+  .about-us .overlap-group {
+    position: relative;
+    width: 28px;
+    height: 21px;
+  }
+  
+  .about-us .group-6 {
+    position: absolute;
+    width: 28px;
+    height: 20px;
+    top: 0;
+    left: 0;
+  }
+  
+  .about-us .group-7 {
+    position: absolute;
+    width: 11px;
+    height: 12px;
+    top: 9px;
+    left: 8px;
+  }
+  
+  .about-us .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 160px;
+    height: 36px;
+    top: 10px;
+    left: 1256px;
+    background-color: #a8d5ba;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: transparent;
+  }
+  
+  .about-us .text-wrapper-13 {
+    position: absolute;
+    top: 6px;
+    left: 72px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #29563b;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .about-us .log-in {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 50px;
+  }
+  
+  .about-us .group-8 {
+    position: relative;
+    width: 12px;
+    height: 13px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .about-us .group-9 {
+    height: 13px;
+  }
+  
+  .about-us .overlap-group-2 {
+    width: 13px;
+    position: relative;
+    height: 14px;
+    top: -1px;
+  }
+  
+  .about-us .group-10 {
+    position: absolute;
+    width: 9px;
+    height: 1px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .about-us .group-11 {
+    position: absolute;
+    width: 5px;
+    height: 8px;
+    top: 3px;
+    left: 5px;
+  }
+  
+  .about-us .group-12 {
+    position: absolute;
+    width: 8px;
+    height: 14px;
+    top: 0;
+    left: 4px;
+  }
+  
+  .about-us .text-wrapper-14 {
+    position: absolute;
+    top: 7px;
+    left: 70px;
+    font-family: "Raleway-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 42px;
+    white-space: nowrap;
+  }
+  
+  .about-us .header-menu {
+    position: absolute;
+    width: 491px;
+    height: 52px;
+    top: 2px;
+    left: 240px;
+  }
+  
+  .about-us .frame-6 {
+    width: 85px;
+    height: 52px;
+    left: 406px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .rectangle-2 {
+    position: absolute;
+    width: 85px;
+    height: 4px;
+    top: 48px;
+    left: 0;
+    background-color: #a8d5ba;
+    border-radius: 2px;
+    border: 0px none;
+  }
+  
+  .about-us .text-wrapper-15 {
+    top: 14px;
+    left: 12px;
+    color: #a8d5ba;
+    font-size: 14px;
+    line-height: 22px;
+    position: absolute;
+    font-family: "Lora-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .about-us .frame-7 {
+    width: 174px;
+    height: 52px;
+    left: 0;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .text-wrapper-16 {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .about-us .frame-8 {
+    width: 232px;
+    height: 52px;
+    left: 174px;
+    border-radius: 6px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
+  
+  .about-us .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    width: 160px;
+    top: 10px;
+    left: 1080px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-color: #37734f;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .about-us .text-wrapper-17 {
+    position: absolute;
+    top: 6px;
+    left: 66px;
+    font-family: "Lora-Regular", Helvetica;
+    font-weight: 400;
+    color: #37734f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .about-us .newsletter-dev {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 44px;
+  }
+  
+  .about-us .group-13 {
+    position: relative;
+    width: 13px;
+    height: 13px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .about-us .overlap-group-3 {
+    width: 14px;
+    left: -1px;
+    position: relative;
+    height: 14px;
+    top: -1px;
+  }
+  
+  .about-us .group-14 {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 4px;
+    left: 0;
+  }
+  
+  .about-us .group-15 {
+    position: absolute;
+    width: 9px;
+    height: 8px;
+    top: 0;
+    left: 2px;
+  }
+  
+  .about-us .group-16 {
+    position: absolute;
+    width: 13px;
+    height: 8px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .about-us .group-17 {
+    position: absolute;
+    width: 7px;
+    height: 5px;
+    top: 6px;
+    left: 7px;
+  }
+  
+  .about-us .group-18 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 3px;
+    left: 4px;
+  }
+  
+  .about-us .group-19 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 3px;
+    left: 7px;
+  }
+  /* Original CSS code */
+  
+  /* Add these new styles */
+  .about-us {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
+  .container-11 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .header-menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .user-actions {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .testimonials {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  
+  /* Accessibility improvements */
+  .button:focus,
+  .button-2:focus,
+  .button-3:focus,
+  .button-4:focus {
+    outline: 2px solid #4a90e2;
+  }
+  
+  .rating {
+    display: flex;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 1200px) {
+    .about-us {
+      padding: 0 20px;
+    }
+  
+    .container,
+    .container-2,
+    .container-7 {
+      width: 100%;
+    }
+  
+    .image {
+      max-width: 100%;
+      height: auto;
+    }
+  
+    .testimonials {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .container-8,
+    .container-9,
+    .container-10 {
+      margin-bottom: 20px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .header-menu {
+      display: none;
+    }
+  
+    .user-actions {
+      flex-direction: column;
+    }
+  
+    .container-2 ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .container-3,
+    .container-4,
+    .container-5,
+    .container-6 {
+      width: 100%;
+      max-width: 276px;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Inject the original CSS code here */
+  
